@@ -1,0 +1,21 @@
+---
+---
+
+.g-site-title {
+  text-align: center;
+  color: black;
+  font-family: Plathorn-NorMed, Garamond, Serif;
+  font-size: 24pt;
+}
+
+/* logo text size on screens */
+@media (min-width: 400px) {
+  .g-site-title {
+    font-size: 30pt;
+  }
+}
+@media (min-width: 600px) {
+  .g-site-title {
+    font-size: 48pt;
+  }
+}
