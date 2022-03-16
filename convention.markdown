@@ -2,10 +2,7 @@
 layout: page
 title: 2019 UK Convention
 permalink: /convention/
----
-
-<!-- <img src="/img/ukshc2016.jpg" class="img-responsive" /> -->
-
+hero_image: /assets/images/ukshc2016.jpg
 ---
 
 On 14 and 15 September 2019, we hosted singers from all over the UK, Europe and around the world at the 24th UK Sacred Harp Convention.

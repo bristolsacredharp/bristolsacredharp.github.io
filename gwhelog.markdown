@@ -2,10 +2,7 @@
 layout: page
 title: Gwehelog All-Day Singing
 permalink: /gwehelog/
----
-
-<!-- <img src="/img/gwehelog-chapel.jpg" class="img-responsive" /> -->
-
+hero_image: /assets/images/gwehelog-chapel.jpg
 ---
 
 The 21st Gwehelog Singing Weekend in Gwehelog, Usk is yet to be confirmed.

@@ -2,10 +2,7 @@
 layout: page
 title: Bristol All-Day Singing
 permalink: /allday/
----
-
-<!-- <img src="/img/2015allday.jpg" class="img-responsive" /> -->
-
+hero_image: /assets/images/2015allday.jpg
 ---
 
 Our all-day singing is held on the Saturday before the second Sunday in May.
