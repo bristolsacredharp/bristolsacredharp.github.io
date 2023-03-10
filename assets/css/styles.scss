@@ -1,11 +1,21 @@
 ---
 ---
 
+* {
+  box-sizing: content-box;
+}
+
+body {
+  background-color: #eee;
+}
+
 .g-site-title {
+  display: block;
   text-align: center;
   color: black;
   font-family: Plathorn-NorMed, Garamond, Serif;
   font-size: 24pt;
+  margin: 2rem auto 1rem;
 }
 
 /* logo text size on screens */
@@ -18,4 +28,53 @@
   .g-site-title {
     font-size: 48pt;
   }
+}
+
+.g-site-title:visited {
+  color: black;
+}
+
+.c-hero-image {
+  margin: 1rem 0 3rem 0;
+}
+
+// Jekyll overrides
+
+.page-content,
+.site-footer {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.wrapper {
+  background-color: white;
+}
+
+.site-nav {
+  float: none;
+}
+
+//
+// to be implemented
+//
+
+.twitter-button {
+  padding-top: 15px;
+  padding-right: 0px;
+  float: right;
+}
+
+.calendar {
+  float: right;
+  display: inline-block;
+}
+
+/*fixes some placement issues with inline google calendar */
+.calendar {
+  width: 100%;
+}
+
+.sidebar div {
+  margin-top: 10px;
+  margin-bottom: 20px;
 }
