@@ -26,6 +26,11 @@ baseurl: "/bristolsacredharp.org" # the subpath of your site, e.g. /blog
 url: "https://bristolsacredharp.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sacredharpbrs
 
+header_pages:
+  - allday.markdown
+  - gwehelog.markdown
+  - convention.markdown
+
 # Build settings
 theme: minima
 plugins:
