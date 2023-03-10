@@ -11,8 +11,9 @@ hero_image: /assets/images/cw_leading.jpg
 
 ## Sing with us
 
-We sing **every Tuesday** from 7&ndash;9pm at **The Benjamin Perry Boathouse**, Phoenix Wharf, Lower Guinea Street,
-Bristol BS1 6TJ. [[map]](https://goo.gl/maps/ajycuowpbAu)
+We sing **every Tuesday** from 7&ndash;9pm at **Faithspace Community Centre**, Redcliffe Methodist Church, Prewett St, Redcliffe, BS1 6PB. [[map]](https://goo.gl/maps/GSjy4yTq3eUKpg3A8)
+
+We sing on **third Sundays** from 2&ndash;4pm at **St Anne's Church Hall**, Easton, BS5 6JN. [[map]](https://goo.gl/maps/cRSMgirtCPU9Ywk66)
 
 **Everyone is welcome.** We are not a choir: no-one is in charge, we don't rehearse, and we don't perform. Everyone who attends sings, loudly and freely, for their own enjoyment. You don't need to be able to read music, although by singing with us you will naturally start to learn.
 
@@ -28,7 +29,7 @@ of the regular singings.
 You can buy a book from us if you come and sing with us. Or you can order one from [the publishing company](http://originalsacredharp.com/ordering-the-sacred-harp/).
 
 To hear authentic old recordings of Sacred Harp, we recommend the
-[1959 United Convention](http://research.culturalequity.org/rc-b2/get-audio-ix.do?ix=recording&id=352&idType=genreId&sortBy=abc) and the [1980 First National Convention](http://originalsacredharp.com/museum/national-convention/). The [2017 Bristol All-Day Singing](https://bristolsacredharp.bandcamp.com/album/fourth-bristol-all-day-singing)
+[1959 United Convention](https://archive.culturalequity.org/field-work/southern-us-1959-and-1960/fyffe-959) and the [1980 First National Convention](http://originalsacredharp.com/museum/national-convention/). The [2017 Bristol All-Day Singing](https://bristolsacredharp.bandcamp.com/album/fourth-bristol-all-day-singing)
 is a good example of current UK singing.
 
 [FaSoLa Mix](https://fasolamix.com/app/) is an amazing tool that allows you to mix recordings of contemporary Sacred Harp singing and isolate different parts. It is also available as an iOS app.
