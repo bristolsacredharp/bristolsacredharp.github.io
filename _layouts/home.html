@@ -6,4 +6,53 @@ layout: default
   <img src="{{ page.hero_image | relative_url }}" class="c-hero-image" />
 
   {{ content }}
+
+  <h2>Get in touch</h2>
+
+  <!-- Facebook -->
+  <div>
+    <p>
+      Keep up with discussions in our
+      <a href="https://www.facebook.com/groups/bristolsacredharp/"
+        >Facebook Group</a
+      >.
+    </p>
+  </div>
+
+  <!-- Calendar -->
+  <div class="c-calendar responsive-iframe-container">
+    <iframe
+      src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FLondon&showTabs=1&hl=en_GB&src=YnJpc3RvbHNhY3JlZGhhcnBAZ21haWwuY29t&color=%237986CB"
+      style="border: solid 1px #777"
+      width="800"
+      height="600"
+      frameborder="0"
+      scrolling="no"
+    ></iframe>
+  </div>
+
+  <!-- Tweets -->
+  <div class="twitter">
+    <a
+      class="twitter-timeline"
+      width="350"
+      height="400"
+      href="https://twitter.com/sacredharpbrs"
+      data-widget-id="565505552441442304"
+      >Tweets by @sacredharpbrs</a
+    >
+    <script>
+      !(function (d, s, id) {
+        var js,
+          fjs = d.getElementsByTagName(s)[0],
+          p = /^http:/.test(d.location) ? "http" : "https";
+        if (!d.getElementById(id)) {
+          js = d.createElement(s);
+          js.id = id;
+          js.src = p + "://platform.twitter.com/widgets.js";
+          fjs.parentNode.insertBefore(js, fjs);
+        }
+      })(document, "script", "twitter-wjs");
+    </script>
+  </div>
 </div>

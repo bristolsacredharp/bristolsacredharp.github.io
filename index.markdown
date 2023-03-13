@@ -34,4 +34,15 @@ To hear authentic old recordings of Sacred Harp, we recommend the
 [1959 United Convention](https://archive.culturalequity.org/field-work/southern-us-1959-and-1960/fyffe-959) and the [1980 First National Convention](http://originalsacredharp.com/museum/national-convention/). The [2017 Bristol All-Day Singing](https://bristolsacredharp.bandcamp.com/album/fourth-bristol-all-day-singing)
 is a good example of current UK singing.
 
+<iframe
+  style="border: 0; width: 100%; height: 120px"
+  src="https://bandcamp.com/EmbeddedPlayer/album=967320061/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/"
+  seamless
+>
+  <a
+    href="http://bristolsacredharp.bandcamp.com/album/fourth-bristol-all-day-singing"
+    >Fourth Bristol All-Day Singing by Bristol Sacred Harp</a
+  >
+</iframe>
+
 [FaSoLa Mix](https://fasolamix.com/app/) is an amazing tool that allows you to mix recordings of contemporary Sacred Harp singing and isolate different parts. It is also available as an iOS app.

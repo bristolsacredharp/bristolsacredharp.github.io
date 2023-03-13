@@ -40,6 +40,27 @@ body {
   margin: 1rem 0 3rem 0;
 }
 
+.c-calendar {
+  margin-bottom: 1.4rem;
+}
+
+.responsive-iframe-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  height: 0;
+}
+
+.responsive-iframe-container iframe,
+.responsive-iframe-container object,
+.responsive-iframe-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  min-width: 400px;
+}
 // Jekyll overrides
 
 .page-content,
@@ -69,29 +90,4 @@ body {
 
 .site-header .wrapper {
   padding-top: 1px;
-}
-
-//
-// to be implemented
-//
-
-.twitter-button {
-  padding-top: 15px;
-  padding-right: 0px;
-  float: right;
-}
-
-.calendar {
-  float: right;
-  display: inline-block;
-}
-
-/*fixes some placement issues with inline google calendar */
-.calendar {
-  width: 100%;
-}
-
-.sidebar div {
-  margin-top: 10px;
-  margin-bottom: 20px;
 }
