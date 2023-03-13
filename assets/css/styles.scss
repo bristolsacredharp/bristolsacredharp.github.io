@@ -16,17 +16,19 @@ body {
   font-family: Plathorn-NorMed, Garamond, Serif;
   font-size: 24pt;
   margin: 2rem auto 1rem;
+  padding-right: 40px;
 }
 
 /* logo text size on screens */
 @media (min-width: 400px) {
   .g-site-title {
-    font-size: 30pt;
+    font-size: 28pt;
   }
 }
-@media (min-width: 600px) {
+@media (min-width: 601px) {
   .g-site-title {
     font-size: 48pt;
+    padding-right: 0;
   }
 }
 
@@ -47,11 +49,26 @@ body {
 }
 
 .wrapper {
+  position: relative;
   background-color: white;
 }
 
 .site-nav {
   float: none;
+  top: calc(50% - 16px);
+  z-index: 1;
+  .page-link {
+    font-weight: 600;
+  }
+}
+
+.site-header,
+.site-footer {
+  border: none;
+}
+
+.site-header .wrapper {
+  padding-top: 1px;
 }
 
 //
