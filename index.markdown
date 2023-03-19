@@ -13,8 +13,6 @@ hero_image: /assets/images/cw_leading.jpg
 
 We sing **every Tuesday** from 7&ndash;9pm at **Faithspace Community Centre**, Redcliffe Methodist Church, Prewett St, Redcliffe, BS1 6PB. [[map]](https://goo.gl/maps/GSjy4yTq3eUKpg3A8)
 
-We sing on **third Sundays** from 2&ndash;4pm at **St Anne's Church Hall**, Easton, BS5 6JN. [[map]](https://goo.gl/maps/cRSMgirtCPU9Ywk66)
-
 Singings are subject to our [Covid policy (PDF)]({{ site.baseurl }}{% link /assets/files/BSH_Covid_policy-2.pdf %}) and the venue requirements.
 
 **Everyone is welcome.** We are not a choir: no-one is in charge, we don't rehearse, and we don't perform. Everyone who attends sings, loudly and freely, for their own enjoyment. You don't need to be able to read music, although by singing with us you will naturally start to learn.
