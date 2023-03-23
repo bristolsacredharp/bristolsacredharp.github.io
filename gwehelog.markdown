@@ -5,10 +5,18 @@ permalink: /gwehelog/
 hero_image: /assets/images/gwehelog-chapel.jpg
 ---
 
-The 21st Gwehelog Singing Weekend in Gwehelog, Usk is yet to be confirmed.
+The 21st Gwehelog Singing Weekend in Gwehelog, Usk will take the form of a double all-day singing, held on **Sat 15** and **Sun 16 July 2023**.
+
+**Saturday 15 July**  
+Sacred Harp all-day singing (1991 edition).  
+10:30am to 3:30pm. Registration from 10am.
+
+**Sunday 16 July**  
+Christian Harmony all-day singing (2010 edition).  
+Times to be confirmed.
 
 Chair  
-**Meg Winter**
+**Steve Brett**
 
 ## Venue
 
@@ -23,7 +31,7 @@ The chapel is quite remote, and is easiest to access by car. Leave the M4 at jun
 
 ### By public transport
 
-It is possible to take the [number 60 bus service](http://www.monmouthshire.gov.uk/home/streets-parking-and-transport/transport-and-travel/bus-services/bus-timetables") from Newport (towards Monmouth). The bus stops at Gwehelog, a short walk from the chapel. Newport has connecting train services to London, Manchester and South Wales.
+**Saturday only**: It is possible to take the [number 60 bus service](https://bustimes.org/services/60-newport-monmouth-2") from Newport (towards Monmouth). The bus stops at Gwehelog, a short walk from the chapel. Newport has connecting train services to London, Manchester and South Wales.
 
 ## Previous minutes
 
