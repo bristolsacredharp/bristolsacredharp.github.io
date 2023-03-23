@@ -33,6 +33,8 @@ The chapel is quite remote, and is easiest to access by car. Leave the M4 at jun
 
 **Saturday only**: It is possible to take the [number 60 bus service](https://bustimes.org/services/60-newport-monmouth-2") from Newport (towards Monmouth). The bus stops at Gwehelog, a short walk from the chapel. Newport has connecting train services to London, Manchester and South Wales.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QLs2JbxM_o0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Previous minutes
 
 - [20th Gwehelog Singing Weekend &ndash; 2019](http://fasola.org/minutes/search/?n=5988). Chairs: Bridget McVennon-Morgan and Matthew Parkinson.
