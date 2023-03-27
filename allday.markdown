@@ -22,6 +22,12 @@ Vice-chair
 Beckspool Road, Frenchay  
 Bristol, BS16 1NT
 
+## Covid-19 health and safety requirements
+
+- Take a lateral flow test before singing on the day of the event, and bring a picture of your negative test.
+- Do not attend if you test positive for COVID or have symptoms.
+- For full details see https://bit.ly/bsh-covid-policy
+
 ## Getting here
 
 ### From Bristol city centre
