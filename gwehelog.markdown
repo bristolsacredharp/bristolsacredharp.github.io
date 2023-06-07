@@ -27,13 +27,17 @@ Monmouthshire, NP15
 
 ## Getting here
 
-The chapel is quite remote, and is easiest to access by car. Leave the M4 at junction 24 and take the A449 towards Usk. Gwehelog is just off the Monmouth Road between Usk and Raglan. Car parking will be available.
+The chapel is quite remote, and is easiest to access by car. Leave the M4 at junction 24 and take the A449 towards Usk. Gwehelog is just off the Monmouth Road between Usk and Raglan. Car parking will be available in an adjacent field.
 
 ### By public transport
 
-**Saturday only**: It is possible to take the [number 60 bus service](https://bustimes.org/services/60-newport-monmouth-2") from Newport (towards Monmouth). The bus stops at Gwehelog, a short walk from the chapel. Newport has connecting train services to London, Manchester and South Wales.
+**Saturday only**: It is possible to take the [number 60 bus service](https://bustimes.org/services/60-newport-monmouth-2) from Newport (towards Monmouth). The bus stops at Gwehelog, a short walk from the chapel. Newport has connecting train services to London, Manchester and South Wales.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QLs2JbxM_o0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Accommodation
+
+If you require accommodation with local singers, or help with transport, please email [bristolsacredharp@gmail.com](mailto:bristolsacredharp@gmail.com)
 
 ## Previous minutes
 
