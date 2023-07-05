@@ -13,7 +13,7 @@ Sacred Harp all-day singing (1991 edition).
 
 **Sunday 16 July**  
 Christian Harmony all-day singing (2010 edition).  
-Times to be confirmed.
+10:30am to 2:00pm. Registration from 10am.
 
 Chair  
 **Steve Brett**
@@ -24,6 +24,12 @@ Chair
 Gwehelog, Usk  
 Monmouthshire, NP15
 [[map]](https://www.google.com/maps/place/Gwehelog+Methodist+Church/data=!4m2!3m1!1s0x4871c49cbbee1dd7:0xbe7baa16cffdbfdf?gl=GB&hl=en)
+
+## Covid-19 health and safety requirements
+
+- Take a lateral flow test before singing on the day of the event, and bring a picture of your negative test.
+- Do not attend if you test positive for COVID or have symptoms.
+- See [full Covid policy](https://bit.ly/bsh-covid-policy).
 
 ## Getting here
 
