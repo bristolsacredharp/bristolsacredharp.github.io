@@ -77,7 +77,7 @@ Some loaner books will be available to use.
 
 ## Previous minutes
 
-- [7th Bristol Singing – 2023](http://fasola.org/minutes/search/?n=6369). Chair: Alec Williams.
+- [7th Bristol Singing – 2022](http://fasola.org/minutes/search/?n=6369). Chair: Alec Williams.
 - [6th Bristol Singing – 2019](http://fasola.org/minutes/search/?n=5916). Chair: Rachel Wemyss.
 - [5th Bristol Singing – 2018](http://fasola.org/minutes/search/?n=5615). Chair: Samantha Cole.
 - [4th Bristol Singing – 2017](http://fasola.org/minutes/search/?n=5316). Chair: Kate Kirwan.
