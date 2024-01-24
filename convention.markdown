@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2019 UK Convention
+title: 2024 UK Convention
 permalink: /convention/
 hero_image: /assets/images/ukshc2016.jpg
 ---
