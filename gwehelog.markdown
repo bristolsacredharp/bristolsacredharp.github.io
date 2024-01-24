@@ -5,18 +5,20 @@ permalink: /gwehelog/
 hero_image: /assets/images/gwehelog-chapel.jpg
 ---
 
-The 21st Gwehelog Singing Weekend in Gwehelog, Usk will take the form of a double all-day singing, held on **Sat 15** and **Sun 16 July 2023**.
+The 22nd Gwehelog Singing Weekend in Gwehelog, Usk will take the form of a double all-day singing, held on **Sat 20** and **Sun 21 July 2024**.
 
-**Saturday 15 July**  
-Sacred Harp all-day singing (1991 edition).  
-10:30am to 3:30pm. Registration from 10am.
+**Saturday 20 July**  
+Sacred Harp all-day singing (1991 edition).
 
-**Sunday 16 July**  
-Christian Harmony all-day singing (2010 edition).  
-10:30am to 2:00pm. Registration from 10am.
+<!-- 10:30am to 3:30pm. Registration from 10am. -->
+
+**Sunday 21 July**  
+Christian Harmony all-day singing (2010 edition).
+
+<!-- 10:30am to 2:00pm. Registration from 10am. -->
 
 Chair  
-**Steve Brett**
+**Joyce Smith**
 
 ## Venue
 
@@ -47,6 +49,7 @@ If you require accommodation with local singers, or help with transport, please 
 
 ## Previous minutes
 
+- [21st Gwehelog Singing Weekend &ndash; 2023](http://fasola.org/minutes/search/?n=6622). Chair: Steve Brett.
 - [20th Gwehelog Singing Weekend &ndash; 2019](http://fasola.org/minutes/search/?n=5988). Chairs: Bridget McVennon-Morgan and Matthew Parkinson.
 - [19th Gwehelog Singing Weekend &ndash; 2018](http://fasola.org/minutes/search/?n=5679). ([3rd Christian Harmony singing](http://www.christianharmony.org/harmony/minutes/2018minutes/Gwehelog2018.html)) Chair: Alec Williams.
 - [18th Gwehelog Singing Weekend &ndash; 2017](http://fasola.org/minutes/search/?n=5376). ([2nd Christian Harmony singing](http://www.christianharmony.org/harmony/minutes/2017minutes/Gwehelog2017.html)) Chairs: Steve Brett and Ella Cumber.

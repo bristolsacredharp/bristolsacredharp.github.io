@@ -5,9 +5,12 @@ permalink: /convention/
 hero_image: /assets/images/ukshc2016.jpg
 ---
 
-On 14 and 15 September 2019, we hosted singers from all over the UK, Europe and around the world at the 24th UK Sacred Harp Convention.
+On 14 and 15 September 2024, we will host singers from all over the UK, Europe and around the world at the 27th UK Sacred Harp Convention.
 
 Singing with nearly 200 people is an event you don't want to miss!
+
+Co-chairs
+**Sam Cole and Kate Kirwan**
 
 For more information, please visit the [UK Sacred Harp Convention](http://ukshc.org/) website.
 

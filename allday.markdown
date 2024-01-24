@@ -6,14 +6,11 @@ hero_image: /assets/images/2015allday.jpg
 ---
 
 Our all-day singing is held on the Saturday before the second Sunday in May.
-The eighth annual all-day singing in Bristol will be held on **Sat 13 May 2023**.
+The ninth annual all-day singing in Bristol will be held on **Sat 11 May 2024**.
 
 Registration at 10am for a **10:30am start**.
 
 Chair  
-**Bridget McVennon-Morgan**
-
-Vice-chair  
 **Samuel Turner**
 
 ## Venue
@@ -32,11 +29,11 @@ Bristol, BS16 1NT
 
 ### From Bristol city centre
 
-From Bristol Bus Station, take the 46 bus (destination Yate) to Frenchay. It stops at the junction of Bristol Rd and Beckspool Rd, a short walk from the venue.
+From Bristol Bus Station, take the Y1 or Y2 bus to Hambrook. It stops at ["The Stream"](https://maps.app.goo.gl/H6TJQNVf3sUrhQHm7) on Bristol Rd, a 15 minute walk from the venue.
 
 ### By train
 
-Bristol Parkway may be the most convenient station for this singing. Booking in advance is strongly recommended for cheaper tickets. From Parkway, the 18/18A bus (destination Emersons Green) runs to Bristol Rd, a short walk from the venue.
+Bristol Parkway may be the most convenient station for this singing. Booking in advance is strongly recommended for cheaper tickets. From Parkway, a taxi may be the best way to get to the venue.
 
 ### By coach
 
@@ -77,6 +74,7 @@ Some loaner books will be available to use.
 
 ## Previous minutes
 
+- [8th Bristol Singing – 2023](http://fasola.org/minutes/search/?n=6574). Chair: Bridget McVennon-Morgan.
 - [7th Bristol Singing – 2022](http://fasola.org/minutes/search/?n=6369). Chair: Alec Williams.
 - [6th Bristol Singing – 2019](http://fasola.org/minutes/search/?n=5916). Chair: Rachel Wemyss.
 - [5th Bristol Singing – 2018](http://fasola.org/minutes/search/?n=5615). Chair: Samantha Cole.
