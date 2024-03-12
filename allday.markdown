@@ -43,9 +43,9 @@ National Express services run to Bristol Bus Station. Megabus services run to Bo
 
 Leave the M4 at junction 19 onto the M32. Take the first exit at junction 1 onto the A4174, then the first right onto Bristol Rd and then the first left onto Beckspool Rd. There is on-street parking on Beckspool Rd outside the venue.
 
-<!-- ## Friday singing
+## Friday singing
 
-If you're around on Friday 12th, please join us for a composium, singing new compositions in the Sacred Harp style.
+If you're around on Friday 10th, please join us for a composium, singing new compositions in the Sacred Harp style.
 This will be from 7–9pm at:
 
 [St. Anne's Church Hall](http://www.stanneschurchbristol.org.uk/),
@@ -64,13 +64,13 @@ The Greenbank serves a wide variety of wines, ales and craft beers, as well as w
 
 ## Sunday singing
 
-On Sunday 14th, please join us for a Christian Harmony singing from 1–4pm at:
+On Sunday 12th, please join us for a Christian Harmony singing from 11:45am–2:30pm at:
 
 [St. Anne's Church Hall](http://www.stanneschurchbristol.org.uk/),
 St Leonards Road,
 Bristol, BS5 6JN.
 
-Some loaner books will be available to use. -->
+Some loaner books will be available to use.
 
 ## Previous minutes
 
