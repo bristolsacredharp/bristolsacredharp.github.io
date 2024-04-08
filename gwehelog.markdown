@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gwehelog All-Day Singing
+title: Gwehelog
 permalink: /gwehelog/
 hero_image: /assets/images/gwehelog-chapel.jpg
 ---
