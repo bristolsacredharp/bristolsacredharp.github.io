@@ -5,13 +5,15 @@ permalink: /allday/
 hero_image: /assets/images/2015allday.jpg
 ---
 
-Our all-day singing is held on the Saturday before the second Sunday in May.
-The ninth annual all-day singing in Bristol will be held on **Sat 11 May 2024**.
+The tenth annual all-day singing in Bristol will be held on **Sat 3 May 2025**.
+
+(Note: This date is an exception. Our all-days are usually held on the Saturday
+before the second Sunday in May. They will return to this pattern in 2026.)
 
 Registration at 10am for a **10:30am start**.
 
-Chair  
-**Samuel Turner**
+Chairs
+**Mandy Rose & Samuel Turner**
 
 ## Venue
 
@@ -45,7 +47,7 @@ Leave the M4 at junction 19 onto the M32. Take the first exit at junction 1 onto
 
 ## Friday singing
 
-If you're around on Friday 10th, please join us for a composium, singing new compositions in the Sacred Harp style.
+If you're around on Friday 2nd, please join us for a composium, singing new compositions in the Sacred Harp style.
 This will be from 7–9pm at:
 
 [St. Anne's Church Hall](http://www.stanneschurchbristol.org.uk/),
@@ -54,17 +56,14 @@ Bristol, BS5 6JN.
 
 ## Saturday social
 
-We will meet for a social at 8pm after the singing on Saturday at:
-
-[The Greenbank](https://thegreenbankbristol.co.uk/),
-57 Bellevue Road,
-Bristol, BS5 6DP.
+We will meet for a social at 8pm after the singing on Saturday:
+Venue to follow.
 
 The Greenbank serves a wide variety of wines, ales and craft beers, as well as wood-fired pizza and other meals.
 
 ## Sunday singing
 
-On Sunday 12th, please join us for a Christian Harmony singing from 11:45am–2:30pm at:
+On Sunday 4th, please join us for a Christian Harmony singing from 11:45am–2:30pm at:
 
 [St. Anne's Church Hall](http://www.stanneschurchbristol.org.uk/),
 St Leonards Road,
@@ -74,11 +73,12 @@ Some loaner books will be available to use.
 
 ## Previous minutes
 
-- [8th Bristol Singing – 2023](http://fasola.org/minutes/search/?n=6574). Chair: Bridget McVennon-Morgan.
-- [7th Bristol Singing – 2022](http://fasola.org/minutes/search/?n=6369). Chair: Alec Williams.
-- [6th Bristol Singing – 2019](http://fasola.org/minutes/search/?n=5916). Chair: Rachel Wemyss.
-- [5th Bristol Singing – 2018](http://fasola.org/minutes/search/?n=5615). Chair: Samantha Cole.
-- [4th Bristol Singing – 2017](http://fasola.org/minutes/search/?n=5316). Chair: Kate Kirwan.
-- [3rd Bristol Singing – 2016](http://fasola.org/minutes/search/?n=5017). Chair: Barry Parsons.
-- [2nd Bristol Singing – 2015](http://fasola.org/minutes/search/?n=4724). Chair: Steve Brett.
-- [1st Bristol Singing – 2014](http://fasola.org/minutes/search/?n=4440). Chair: John Barbour.
+- [9th Bristol Singing – 2024](https://fasola.org/minutes/search/?n=6811). Co-chairs: Samuel Turner &amp; Mandy Rose.
+- [8th Bristol Singing – 2023](https://fasola.org/minutes/search/?n=6574). Chair: Bridget McVennon-Morgan.
+- [7th Bristol Singing – 2022](https://fasola.org/minutes/search/?n=6369). Chair: Alec Williams.
+- [6th Bristol Singing – 2019](https://fasola.org/minutes/search/?n=5916). Chair: Rachel Wemyss.
+- [5th Bristol Singing – 2018](https://fasola.org/minutes/search/?n=5615). Chair: Samantha Cole.
+- [4th Bristol Singing – 2017](https://fasola.org/minutes/search/?n=5316). Chair: Kate Kirwan.
+- [3rd Bristol Singing – 2016](https://fasola.org/minutes/search/?n=5017). Chair: Barry Parsons.
+- [2nd Bristol Singing – 2015](https://fasola.org/minutes/search/?n=4724). Chair: Steve Brett.
+- [1st Bristol Singing – 2014](https://fasola.org/minutes/search/?n=4440). Chair: John Barbour.
