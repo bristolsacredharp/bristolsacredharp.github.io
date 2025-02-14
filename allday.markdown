@@ -56,10 +56,8 @@ Bristol, BS5 6JN.
 
 ## Saturday social
 
-We will meet for a social at 8pm after the singing on Saturday:
+We will meet for a social at 8pm after the singing on Saturday:  
 Venue to follow.
-
-The Greenbank serves a wide variety of wines, ales and craft beers, as well as wood-fired pizza and other meals.
 
 ## Sunday singing
 
