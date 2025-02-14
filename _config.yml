@@ -27,7 +27,6 @@ url: "https://bristolsacredharp.github.io/" # the base hostname & protocol for y
 
 header_pages:
   - allday.markdown
-  - revision.markdown
   - gwehelog.markdown
   - convention.markdown
 
