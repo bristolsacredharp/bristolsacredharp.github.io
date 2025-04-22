@@ -56,8 +56,14 @@ Bristol, BS5 6JN.
 
 ## Saturday social
 
-We will meet for a social at 8pm after the singing on Saturday:  
-Venue to follow.
+We will meet for a social at 8pm after the singing on Saturday:
+
+[The Eastfield Pub](https://www.theeastfieldpub.co.uk/),
+219 Henleaze Road,
+Bristol BS9 4NQ.
+
+The pub is wheelchair-accessible (including toilets) and has indoor and outdoor seating.
+We are in the conservatory which is to the left of the front door, as you look at the pub from the car park.
 
 ## Sunday singing
 
