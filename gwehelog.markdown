@@ -5,20 +5,23 @@ permalink: /gwehelog/
 hero_image: /assets/images/gwehelog-chapel.jpg
 ---
 
-The 22nd Gwehelog Singing Weekend in Gwehelog, Usk will take the form of a double all-day singing, held on **Sat 20** and **Sun 21 July 2024**.
+The 23rd Gwehelog Singing Weekend in Gwehelog, Usk will take the form of a double all-day singing, held on **Sat 19** and **Sun 20 July 2025**.
 
-**Saturday 20 July**  
+**Saturday 19 July**  
 Sacred Harp all-day singing (1991 edition).
 
-<!-- 10:30am to 3:30pm. Registration from 10am. -->
+10:30am to 3:30pm. Registration from 10am.
 
-**Sunday 21 July**  
+**Sunday 20 July**  
 Christian Harmony all-day singing (2010 edition).
 
-<!-- 10:30am to 2:00pm. Registration from 10am. -->
+10:30am to 2:00pm. Registration from 10am.
 
 Chair  
-**Joyce Smith**
+**Harry Byford**
+
+Vice-chair  
+**Lilith Wozniak**
 
 ## Venue
 
@@ -26,6 +29,8 @@ Chair
 Gwehelog, Usk  
 Monmouthshire, NP15
 [[map]](https://www.google.com/maps/place/Gwehelog+Methodist+Church/data=!4m2!3m1!1s0x4871c49cbbee1dd7:0xbe7baa16cffdbfdf?gl=GB&hl=en)
+
+**PLEASE NOTE**: Due to limitations associated with the venue, will will NOT be hosting dinner on the grounds for this year's singing. Please bring a packed lunch with you for each day you wish to attend.
 
 ## Covid-19 health and safety requirements
 
@@ -41,14 +46,15 @@ The chapel is quite remote, and is easiest to access by car. Leave the M4 at jun
 
 **Saturday only**: It is possible to take the [number 60 bus service](https://bustimes.org/services/60-newport-monmouth-2) from Newport (towards Monmouth). The bus stops at Gwehelog, a short walk from the chapel. Newport has connecting train services to London, Manchester and South Wales.
 
+### Accommodation
+
+If you require accommodation with local singers, or help with transport, please email Joyce at: [bristolsacredharp@gmail.com](mailto:bristolsacredharp@gmail.com)
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QLs2JbxM_o0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## Accommodation
-
-If you require accommodation with local singers, or help with transport, please email [bristolsacredharp@gmail.com](mailto:bristolsacredharp@gmail.com)
 
 ## Previous minutes
 
+- [22nd Gwehelog Singing Weekend &ndash; 2024](http://fasola.org/minutes/search/?n=6862). Chair: Joyce Smith.
 - [21st Gwehelog Singing Weekend &ndash; 2023](http://fasola.org/minutes/search/?n=6622). Chair: Steve Brett.
 - [20th Gwehelog Singing Weekend &ndash; 2019](http://fasola.org/minutes/search/?n=5988). Chairs: Bridget McVennon-Morgan and Matthew Parkinson.
 - [19th Gwehelog Singing Weekend &ndash; 2018](http://fasola.org/minutes/search/?n=5679). ([3rd Christian Harmony singing](http://www.christianharmony.org/harmony/minutes/2018minutes/Gwehelog2018.html)) Chair: Alec Williams.
