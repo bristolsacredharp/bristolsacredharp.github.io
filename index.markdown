@@ -13,6 +13,8 @@ hero_image: /assets/images/cw_leading.jpg
 
 We sing **every Tuesday** from 7&ndash;9pm at **Faithspace Community Centre**, Redcliffe Methodist Church, Prewett St, Redcliffe, BS1 6PB. [[map]](https://goo.gl/maps/GSjy4yTq3eUKpg3A8)
 
+From **5 August 2025** we will be singing from 7:30&ndash;9:45pm at **St Anne's church hall**, St Leonards Road,Bristol, BS5 6JN. [[map]](https://maps.app.goo.gl/52Cad6MfH1qc96dN7)
+
 Singings are subject to our [Covid policy (PDF)]({{ site.baseurl }}{% link /assets/files/BSH_Covid_policy-3.pdf %}).
 
 **Everyone is welcome.** We are not a choir: no-one is in charge, we don't rehearse, and we don't perform. Everyone who attends sings, loudly and freely, for their own enjoyment. You don't need to be able to read music, although by singing with us you will naturally start to learn.
