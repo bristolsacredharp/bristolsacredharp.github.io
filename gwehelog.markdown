@@ -55,11 +55,11 @@ If you require accommodation with local singers, or help with transport, please 
 ## Previous minutes
 
 - [22nd Gwehelog Singing Weekend &ndash; 2024](http://fasola.org/minutes/search/?n=6862). Chair: Joyce Smith.
-- [21st Gwehelog Singing Weekend &ndash; 2023](http://fasola.org/minutes/search/?n=6622). Chair: Steve Brett.
-- [20th Gwehelog Singing Weekend &ndash; 2019](http://fasola.org/minutes/search/?n=5988). Chairs: Bridget McVennon-Morgan and Matthew Parkinson.
-- [19th Gwehelog Singing Weekend &ndash; 2018](http://fasola.org/minutes/search/?n=5679). ([3rd Christian Harmony singing](http://www.christianharmony.org/harmony/minutes/2018minutes/Gwehelog2018.html)) Chair: Alec Williams.
-- [18th Gwehelog Singing Weekend &ndash; 2017](http://fasola.org/minutes/search/?n=5376). ([2nd Christian Harmony singing](http://www.christianharmony.org/harmony/minutes/2017minutes/Gwehelog2017.html)) Chairs: Steve Brett and Ella Cumber.
-- [17th Gwehelog Singing Weekend &ndash; 2016](http://fasola.org/minutes/search/?n=5080). Chairs: Leila Gamaz and Ellen Southern.
+- [21st Gwehelog Singing Weekend &ndash; 2023](http://fasola.org/minutes/search/?n=6622), ([5th Christian Harmony singing](https://www.christianharmony.org/harmony/minutes/2023minutes/gwehelog-2023.html)). Chair: Steve Brett.
+- [20th Gwehelog Singing Weekend &ndash; 2019](http://fasola.org/minutes/search/?n=5988), ([4th Christian Harmony singing](https://www.christianharmony.org/harmony/minutes/2019minutes/gwehelog-2019.html)). Chairs: Bridget McVennon-Morgan and Matthew Parkinson.
+- [19th Gwehelog Singing Weekend &ndash; 2018](http://fasola.org/minutes/search/?n=5679), ([3rd Christian Harmony singing](https://www.christianharmony.org/harmony/minutes/2018minutes/gwehelog-2018.html)). Chair: Alec Williams.
+- [18th Gwehelog Singing Weekend &ndash; 2017](http://fasola.org/minutes/search/?n=5376), ([2nd Christian Harmony singing](https://www.christianharmony.org/harmony/minutes/2017minutes/gwehelog-2017.html)). Chairs: Steve Brett and Ella Cumber.
+- [17th Gwehelog Singing Weekend &ndash; 2016](http://fasola.org/minutes/search/?n=5080), ([1st Christian Harmony singing](https://www.christianharmony.org/harmony/minutes/2016minutes/gwehelog-2016.html)). Chairs: Leila Gamaz and Ellen Southern.
 - [16th Gwehelog Singing Weekend &ndash; 2015](http://fasola.org/minutes/search/?n=4788). Chair: Liam Kirby.
 - [15th Gwehelog Singing Weekend &ndash; 2014](http://fasola.org/minutes/search/?n=4507). Chair: Chris Brown.
 - [14th Gwehelog Singing Weekend &ndash; 2013](http://fasola.org/minutes/search/?n=4216). Chair: Chris Brown.
