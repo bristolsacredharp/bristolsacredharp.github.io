@@ -54,7 +54,7 @@ If you require accommodation with local singers, or help with transport, please 
 
 ## Previous minutes
 
-- [22nd Gwehelog Singing Weekend &ndash; 2024](http://fasola.org/minutes/search/?n=6862). Chair: Joyce Smith.
+- [22nd Gwehelog Singing Weekend &ndash; 2024](http://fasola.org/minutes/search/?n=6862), (6th Christian Harmony singing). Chair: Joyce Smith.
 - [21st Gwehelog Singing Weekend &ndash; 2023](http://fasola.org/minutes/search/?n=6622), ([5th Christian Harmony singing](https://www.christianharmony.org/harmony/minutes/2023minutes/gwehelog-2023.html)). Chair: Steve Brett.
 - [20th Gwehelog Singing Weekend &ndash; 2019](http://fasola.org/minutes/search/?n=5988), ([4th Christian Harmony singing](https://www.christianharmony.org/harmony/minutes/2019minutes/gwehelog-2019.html)). Chairs: Bridget McVennon-Morgan and Matthew Parkinson.
 - [19th Gwehelog Singing Weekend &ndash; 2018](http://fasola.org/minutes/search/?n=5679), ([3rd Christian Harmony singing](https://www.christianharmony.org/harmony/minutes/2018minutes/gwehelog-2018.html)). Chair: Alec Williams.
