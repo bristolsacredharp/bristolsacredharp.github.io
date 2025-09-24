@@ -11,7 +11,9 @@ hero_image: /assets/images/cw_leading.jpg
 
 ## Sing with us
 
-We sing **every Tuesday** from 7:30&ndash;9:45pm at **St Anne's church hall**, St Leonards Road, Bristol, BS5 6JN. [[map]](https://maps.app.goo.gl/52Cad6MfH1qc96dN7)
+We sing **every Tuesday** from 7&ndash;9pm at **Holy Trinity Church**, Clifton Vale, Hotwells, Bristol, BS8 4ST. [[map]](https://maps.app.goo.gl/bjBsyUFzhJjLaCq46)
+
+Please note that our venue may be moving around in early 2026, but we'll be in Hotwells for the remainder of 2025.
 
 Singings are subject to our [Covid policy (PDF)]({{ site.baseurl }}{% link /assets/files/BSH_Covid_policy-3.pdf %}).
 
