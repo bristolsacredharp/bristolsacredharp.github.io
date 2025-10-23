@@ -11,9 +11,11 @@ hero_image: /assets/images/cw_leading.jpg
 
 ## Sing with us
 
-We sing **every Tuesday** from 7&ndash;9pm at **Holy Trinity Church**, Clifton Vale, Hotwells, Bristol, BS8 4ST. [[map]](https://maps.app.goo.gl/bjBsyUFzhJjLaCq46)
+Exception: on Tuesday 4 November 2025 we'll sing from 7&ndash;9pm at **St Matthew's Church**, Cotham Side, Bristol BS6 5TP. [[map]](https://maps.app.goo.gl/3tfE95NwsP2BYYE38)
 
-Please note that our venue may be moving around in early 2026, but we'll be in Hotwells for the remainder of 2025.
+Otherwise, we sing **every Tuesday** from 7&ndash;9pm at **Holy Trinity Church**, Clifton Vale, Hotwells, Bristol, BS8 4ST. [[map]](https://maps.app.goo.gl/bjBsyUFzhJjLaCq46)
+
+Please check back regularly for confirmation of our venue in late 2025 and early 2026.
 
 Singings are subject to our [Covid policy (PDF)]({{ site.baseurl }}{% link /assets/files/BSH_Covid_policy-3.pdf %}).
 
