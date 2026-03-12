@@ -11,13 +11,7 @@ hero_image: /assets/images/cw_leading.jpg
 
 ## Sing with us
 
-Our venues have been confirmed for late 2025/early 2026:
-
-There will be no singing on Tuesday 23 December 2025.
-
-On Tuesday **30 December 2025** we'll sing from the Shenandoah Harmony from 7&ndash;9pm at **Holy Trinity Church**, Clifton Vale, Hotwells, Bristol, BS8 4ST. [[map]](https://maps.app.goo.gl/bjBsyUFzhJjLaCq46)
-
-From  Tuesday **6 January 2026** onwards we'll sing from 7&ndash;9pm at **St Matthew's Church**, Cotham Side, Bristol BS6 5TP. [[map]](https://maps.app.goo.gl/3tfE95NwsP2BYYE38)
+We sing every Tuesday from 7&ndash;9pm at **St Matthew's Church**, Cotham Side, Bristol BS6 5TP. [[map]](https://maps.app.goo.gl/3tfE95NwsP2BYYE38)
 
 Singings are subject to our [Covid policy (PDF)]({{ site.baseurl }}{% link /assets/files/BSH_Covid_policy-3.pdf %}).
 
