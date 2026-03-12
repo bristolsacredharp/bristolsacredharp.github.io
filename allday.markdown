@@ -5,15 +5,12 @@ permalink: /allday/
 hero_image: /assets/images/2015allday.jpg
 ---
 
-The tenth annual all-day singing in Bristol will be held on **Sat 3 May 2025**.
-
-(Note: This date is an exception. Our all-days are usually held on the Saturday
-before the second Sunday in May. They will return to this pattern in 2026.)
+The 11th annual all-day singing in Bristol will be held on **Sat 9 May 2026**.
 
 Registration at 10am for a **10:30am start**.
 
-Chairs
-**Mandy Rose & Samuel Turner**
+Chair
+**Harry Byford**
 
 ## Venue
 
@@ -47,36 +44,19 @@ Leave the M4 at junction 19 onto the M32. Take the first exit at junction 1 onto
 
 ## Friday singing
 
-If you're around on Friday 2nd, please join us for a composium, singing new compositions in the Sacred Harp style.
-This will be from 7–9pm at:
-
-[St. Anne's Church Hall](http://www.stanneschurchbristol.org.uk/),
-St Leonards Road,
-Bristol, BS5 6JN.
+Details t.b.c.
 
 ## Saturday social
 
-We will meet for a social at 8pm after the singing on Saturday:
-
-[The Eastfield Pub](https://www.theeastfieldpub.co.uk/),
-219 Henleaze Road,
-Bristol BS9 4NQ.
-
-The pub is wheelchair-accessible (including toilets) and has indoor and outdoor seating.
-We are in the conservatory which is to the left of the front door, as you look at the pub from the car park.
+Details t.b.c.
 
 ## Sunday singing
 
-On Sunday 4th, please join us for a Christian Harmony singing from 11:45am–2:30pm at:
-
-[St. Anne's Church Hall](http://www.stanneschurchbristol.org.uk/),
-St Leonards Road,
-Bristol, BS5 6JN.
-
-Some loaner books will be available to use.
+Details t.b.c.
 
 ## Previous minutes
 
+- [10th Bristol Singing – 2025]({{ site.baseurl }}{% link /assets/files/2025-minutes.txt %}). Co-chairs: Mandy Rose &amp; Samuel Turner.
 - [9th Bristol Singing – 2024](https://fasola.org/minutes/search/?n=6811). Co-chairs: Samuel Turner &amp; Mandy Rose.
 - [8th Bristol Singing – 2023](https://fasola.org/minutes/search/?n=6574). Chair: Bridget McVennon-Morgan.
 - [7th Bristol Singing – 2022](https://fasola.org/minutes/search/?n=6369). Chair: Alec Williams.
