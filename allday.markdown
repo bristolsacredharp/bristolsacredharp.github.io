@@ -12,6 +12,9 @@ Registration at 10am for a **10:30am start**.
 Chair
 **Harry Byford**
 
+Vice-chair
+**Clara Potter-Sweet**
+
 ## Venue
 
 **Frenchay Quaker Meeting House**  
@@ -44,7 +47,12 @@ Leave the M4 at junction 19 onto the M32. Take the first exit at junction 1 onto
 
 ## Friday singing
 
-Details t.b.c.
+If you're around on Friday 8th, please join us for a composium, singing new compositions in the Sacred Harp style.
+This will be from 7–9pm at:
+
+[St. Anne's Church Hall](http://www.stanneschurchbristol.org.uk/),  
+St Leonards Road,  
+Bristol, BS5 6JN.
 
 ## Saturday social
 
@@ -52,7 +60,13 @@ Details t.b.c.
 
 ## Sunday singing
 
-Details t.b.c.
+On Sunday 10th, please join us for a Christian Harmony singing from 11:45am–2pm at:
+
+[St. Anne's Church Hall](http://www.stanneschurchbristol.org.uk/),
+St Leonards Road,
+Bristol, BS5 6JN.
+
+Some loaner books will be available to use.
 
 ## Previous minutes
 
