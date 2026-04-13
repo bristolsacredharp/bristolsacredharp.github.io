@@ -9,10 +9,10 @@ The 11th annual all-day singing in Bristol will be held on **Sat 9 May 2026**.
 
 Registration at 10am for a **10:30am start**.
 
-Chair
+Chair  
 **Harry Byford**
 
-Vice-chair
+Vice-chair  
 **Clara Potter-Sweet**
 
 ## Venue
@@ -62,8 +62,8 @@ Details t.b.c.
 
 On Sunday 10th, please join us for a Christian Harmony singing from 11:45am–2pm at:
 
-[St. Anne's Church Hall](http://www.stanneschurchbristol.org.uk/),
-St Leonards Road,
+[St. Anne's Church Hall](http://www.stanneschurchbristol.org.uk/),  
+St Leonards Road,  
 Bristol, BS5 6JN.
 
 Some loaner books will be available to use.
