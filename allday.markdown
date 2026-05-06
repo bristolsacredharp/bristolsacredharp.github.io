@@ -30,9 +30,8 @@ Bristol, BS16 1NT
 ## Getting here
 
 ### From Bristol city centre
-
-From Bristol Bus Station, take the Y1 or Y2 bus to Hambrook. It stops at ["The Stream"](https://maps.app.goo.gl/H6TJQNVf3sUrhQHm7) on Bristol Rd, a 15 minute walk from the venue. The M3 metrobus stops nearby at [Hambrook](https://maps.app.goo.gl/bR3YU1S5YBr3zVLb9). Finally, the 50 runs from Wine Street to just outside the venue, stop [Cedar Hall](https://maps.app.goo.gl/i8jvjsRQwkqnh1bL6).
-
+From Wine Street, take the 50 bus to just outside the venue, stop [Cedar Hall](https://maps.app.goo.gl/i8jvjsRQwkqnh1bL6).
+Alternately from Bristol Bus Station, take the Y1 or Y2 bus to Hambrook. It stops at ["The Stream"](https://maps.app.goo.gl/H6TJQNVf3sUrhQHm7) on Bristol Rd, a 15 minute walk from the venue. Or the M3 metrobus stops nearby at [Hambrook](https://maps.app.goo.gl/bR3YU1S5YBr3zVLb9).
 
 ### By train
 
@@ -59,7 +58,7 @@ Bristol, BS5 6JN.
 
 We will meet for a social at 6:30pm after the singing on Saturday:
 
-[Wiper and True Barrel Store](https://wiperandtrue.com/pages/barrel-store),
+[Wiper and True Barrel Store](https://wiperandtrue.com/pages/barrel-store),  
 2-8 York St,  
 St Werburghs, BS2 9XT.
 
