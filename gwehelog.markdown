@@ -5,23 +5,23 @@ permalink: /gwehelog/
 hero_image: /assets/images/gwehelog-chapel.jpg
 ---
 
-The 23rd Gwehelog Singing Weekend in Gwehelog, Usk will take the form of a double all-day singing, held on **Sat 19** and **Sun 20 July 2025**.
+The 24th Gwehelog Singing Weekend in Gwehelog, Usk will take the form of a double all-day singing, held on **Sat 18** and **Sun 19 July 2026**.
 
-**Saturday 19 July**  
-Sacred Harp all-day singing (1991 edition).
+**Saturday 18 July**  
+Sacred Harp all-day singing (2025 edition).
 
 10:30am to 3:30pm. Registration from 10am.
 
-**Sunday 20 July**  
+**Sunday 19 July**  
 Christian Harmony all-day singing (2010 edition).
 
 10:30am to 2:00pm. Registration from 10am.
 
 Chair  
-**Harry Byford**
+**Lilith Wozniak**
 
 Vice-chair  
-**Lilith Wozniak**
+**Bridget McVennon-Morgan**
 
 ## Venue
 
@@ -44,11 +44,11 @@ The chapel is quite remote, and is easiest to access by car. Leave the M4 at jun
 
 ### By public transport
 
-It is possible to take the [number 60 bus service](https://bustimes.org/services/60-newport-monmouth-2) from Newport (towards Monmouth), now on both [Saturday](https://bustimes.org/services/60-monmouth-newport-via-raglan-usk-caerleon?date=2025-07-19&service=15835%3A60) and [Sunday](https://bustimes.org/services/60-monmouth-newport-via-raglan-usk-caerleon?date=2025-07-20&service=15835%3A60). The bus stops at [Gwehelog (Trostrey)](https://maps.app.goo.gl/8v5GZm7K8agpZjM78), a short walk from the chapel. Newport has connecting train services to London, Manchester and South Wales.
+It is possible to take the [number 60 bus service](https://bustimes.org/services/60-newport-monmouth-2) from Newport (towards Monmouth), now on both [Saturday](https://bustimes.org/services/60-monmouth-newport-via-raglan-usk-caerleon?date=2026-07-18&service=15835%3A60) and [Sunday](https://bustimes.org/services/60-monmouth-newport-via-raglan-usk-caerleon?date=2026-07-19&service=15835%3A60). The bus stops at [Gwehelog (Trostrey)](https://maps.app.goo.gl/8v5GZm7K8agpZjM78), a short walk from the chapel. Newport has connecting train services to London, Manchester and South Wales.
 
 ### Accommodation
 
-If you require accommodation with local singers, or help with transport, please email Joyce at: [bristolsacredharp@gmail.com](mailto:bristolsacredharp@gmail.com)
+If you require accommodation with local singers, or help with transport, please email Mandy at: [bristolsacredharp@gmail.com](mailto:bristolsacredharp@gmail.com)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QLs2JbxM_o0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
