@@ -32,6 +32,8 @@ Monmouthshire, NP15
 
 **PLEASE NOTE**: Due to limitations associated with the venue, will will NOT be hosting dinner on the grounds for this year's singing. Please bring a packed lunch with you for each day you wish to attend.
 
+**PLEASE NOTE**: There is no longer provision for car parking in a nearby field: please park on the road down the hill from the chapel, being mindful that large farm vehicles will need to pass.
+
 ## Covid-19 health and safety requirements
 
 - Take a lateral flow test before singing on the day of the event, and bring a picture of your negative test.
@@ -40,7 +42,7 @@ Monmouthshire, NP15
 
 ## Getting here
 
-The chapel is quite remote, and is easiest to access by car. Leave the M4 at junction 24 and take the A449 towards Usk. Gwehelog is just off the Monmouth Road between Usk and Raglan. Car parking will be available in an adjacent field.
+The chapel is quite remote, and is easiest to access by car. Leave the M4 at junction 24 and take the A449 towards Usk. Gwehelog is just off the Monmouth Road between Usk and Raglan. There is no longer provision for car parking in a nearby field: please park on the road down the hill from the chapel, being mindful that large farm vehicles will need to pass.
 
 ### By public transport
 
