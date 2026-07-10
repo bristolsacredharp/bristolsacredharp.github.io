@@ -50,7 +50,7 @@ It is possible to take the [number 60 bus service](https://bustimes.org/services
 
 ### Accommodation
 
-If you require accommodation with local singers, or help with transport, please email Mandy at: [bristolsacredharp@gmail.com](mailto:bristolsacredharp@gmail.com)
+If you require accommodation with local singers, or help with transport, please email Bridget at: [bristolsacredharp@gmail.com](mailto:bristolsacredharp@gmail.com)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QLs2JbxM_o0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
