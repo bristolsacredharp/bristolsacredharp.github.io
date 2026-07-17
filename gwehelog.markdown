@@ -28,7 +28,7 @@ Vice-chair
 **Gwehelog Methodist Church**  
 Gwehelog, Usk  
 Monmouthshire, NP15
-[[map]](https://www.google.com/maps/place/Gwehelog+Methodist+Church/data=!4m2!3m1!1s0x4871c49cbbee1dd7:0xbe7baa16cffdbfdf?gl=GB&hl=en)
+[[map]](https://maps.app.goo.gl/xRguBZawr3bHjtXx8)
 
 **PLEASE NOTE**: Due to limitations associated with the venue, will will NOT be hosting dinner on the grounds for this year's singing. Please bring a packed lunch with you for each day you wish to attend.
 
